@@ -1,4 +1,4 @@
-// import logo from './logo.svg';
+import logo from './logo.svg';
 import SortingVisualizer from './SortingVisualizer/SortingVisualizer';
 import './App.css';
 
