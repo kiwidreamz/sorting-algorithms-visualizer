@@ -38,7 +38,5 @@
   }
 }
 
-"homepage" : "https://{your_github_username}.github.io/{app-name}"
+"homepage" : "https://{kiwidreamz}.github.io/{sorting-visualizer}"
 
-#{your_github_username} - Your GitHub username
-# {app-name} - Name of your application
