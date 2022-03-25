@@ -10,7 +10,7 @@ ______
 
 ## Demo
 
-You can go check out this web app at [this link](https://kiwidreamz.github.io/).
+You can go check out this web app [here](https://kiwidreamz.github.io/).
 
 ______
 
