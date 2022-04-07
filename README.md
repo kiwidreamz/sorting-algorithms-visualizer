@@ -8,6 +8,6 @@ You can re-generate a new array as many times as you'd like. A stop button refre
 
 ### Demo
 
-You can go check out this web app [here](https://kiwidreamz.github.io/).
+You can go check out this web app [here](https://kiwidreamz.github.io/sorting-algorithms-visualizer/).
 
 ______
